@@ -24,7 +24,4 @@ This project applies deep learning (BERT) to classify the sentiment of customer 
 ```bash
 customer_review_analysis/
 ├── sentiment_bert.ipynb     # Jupyter Notebook with full workflow
-├── requirements.txt         # Dependencies
-├── data/                    # (Optional) Raw or preprocessed text data
-├── images/                  # Plots (e.g., accuracy, loss)
 └── README.md                # Project overview and documentation
